@@ -1,4 +1,4 @@
-b = '255'
+b = '210'
 
 html = open ("vivid.html", 'w')
 html_body = """
